@@ -5,7 +5,7 @@
 ## running
 #### how to be paranoid
 #### how to see what is actually happening
-#### using `dryrun`
+#### using `--dryrun`
 #### using `--transform` to get a gui
 ### locations
 #### local, networked, archive-mounted
