@@ -10,6 +10,7 @@
 ## logging
 ## state
 ## persistence
+## notes on security
 #### how to be paranoid
 #### how to see what is actually happening
 #### using `--dryrun`
