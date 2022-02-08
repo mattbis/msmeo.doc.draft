@@ -7,6 +7,9 @@
 #### note on major versions
 ## upgrading
 ## running
+## logging
+## state
+## persistence
 #### how to be paranoid
 #### how to see what is actually happening
 #### using `--dryrun`
