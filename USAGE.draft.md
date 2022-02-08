@@ -18,6 +18,8 @@
 #### recommended shell integration
 #### recommended os shell integration
 ### locations
+#### media-types
+#### paths
 #### local, networked, archive-mounted
 ### runtime options
 ### options
