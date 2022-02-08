@@ -1,5 +1,9 @@
 # USAGE
 #### see INSTALL or SETUP; all information here is included.. see `-h --install` `-h --setup`
+### usage profiles
+  - expert
+  - non-expert
+#### included profiles
 #### note on major versions
 ## upgrading
 ## running
