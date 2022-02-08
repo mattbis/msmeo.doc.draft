@@ -28,7 +28,8 @@
 ### runtime options
 ----
 ### options
-  #### hardware-limit-recommendations options
+  #### hardware-limit-matrix / recommended option values
+    - not going to automate this at first, unless I can find some code that makes it sort of work. Or libraries do this well.. I think its easy enough from what the kernels tell you....
 ----
 ### switches
 ----
