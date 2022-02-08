@@ -7,6 +7,8 @@
 #### how to see what is actually happening
 #### using `--dryrun`
 #### using `--transform` to get a gui
+#### recommended shell integration
+#### recommended os shell integration
 ### locations
 #### local, networked, archive-mounted
 ### runtime options
