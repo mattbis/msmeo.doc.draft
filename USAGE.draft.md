@@ -3,7 +3,11 @@
 #### note on major versions
 ## upgrading
 ## running
+#### how to be paranoid
+#### how to see what is actually happening
+#### using `dryrun`
 ### locations
+#### local, networked, archive-mounted
 ### runtime options
 ### options
 ### switches
