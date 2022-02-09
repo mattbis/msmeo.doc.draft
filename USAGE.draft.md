@@ -19,6 +19,8 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
 ## persistence
 ----
 #### notes on security
+##### running it as a clone of itself ( there is a word i need ot use for this )
+##### running as a monolith
 #### how to be paranoid
 #### how to see what is actually happening
 #### using `--dryrun`
