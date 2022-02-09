@@ -7,7 +7,10 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
 ### usage profiles
   - expert
   - non-expert
-#### included profiles
+#### included profiles and how the default operation works
+  - safe
+  - van
+  - grant
 #### note on major versions
 ## upgrading
 ## running
