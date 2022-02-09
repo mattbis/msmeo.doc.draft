@@ -20,6 +20,9 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
 ## behaviours
 ----
 #### notes on security
+
+The tool will never connect to the network, allow any network module. And only runs locally. There should never be a point this is added. Completely out of scope. Its just to help me at first.. and maybe somebody else if it actually works.
+
 ##### default: running it as a clone of itself ( there is a word i need ot use for this )
 ##### optional: running as a monolith
 #### how to be paranoid
