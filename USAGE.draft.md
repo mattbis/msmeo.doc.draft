@@ -17,6 +17,7 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
 ## logging
 ## state
 ## persistence
+## behaviours
 ----
 #### notes on security
 ##### default: running it as a clone of itself ( there is a word i need ot use for this )
