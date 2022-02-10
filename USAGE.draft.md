@@ -2,7 +2,7 @@
 #### see INSTALL or SETUP; all information here is included.. see `-h --install` `-h --setup`
 #### for detailed descriptions read the ARCH if I write it ...
 
-The only slightly confusing this about this tool is it has a lot of args, and you can do some reasonably unusual things to the arg stack ( I think; of course no statement is finished ). Any command of which there only the main functions of the tool can also be an argument. You can overload the order for example when using in slightly variation aliases.
+The only slightly confusing this about this tool is it has a lot of args, and you can do some reasonably unusual things to the arg stack ( I think; of course no statement is finished ). Any command of which there only the main functions of the tool can also be an argument. You can overload the order for example when using in slightly variation aliases ( everything must be explicit and the arg logic will always be the same pretty much: I hope.. However the profiles allow you to control a lot.. SO everything is configurable )
 
 ### usage profiles
   - expert
