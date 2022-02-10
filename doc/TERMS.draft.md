@@ -7,3 +7,5 @@
 #### GRAPHS
 ### result
 ### transformation
+#### COMMUNICATION
+#### MODE
