@@ -10,3 +10,5 @@
 #### COMMUNICATION
 #### MODE
 #### FORMATS
+#### SELECTORS
+#### EDGE
