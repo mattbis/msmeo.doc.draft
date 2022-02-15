@@ -13,6 +13,8 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
   - grant
 #### almost everything mods something before
 #### profiles are not config on the cli from cwd...
+#### cwd to collections 
+#### modding collections together
 #### cwd is for usage... tool config is for customisations... such as custom hashing.. 
   - limit functions like hash etc
 #### how releases work 
