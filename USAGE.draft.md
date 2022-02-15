@@ -11,7 +11,6 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
   - safe
   - van
   - grant
-#### almost everything mods something before
 #### profiles are not config on the cli from cwd...
 #### cwd to collections 
 #### modding collections together
