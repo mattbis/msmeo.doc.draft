@@ -12,6 +12,8 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
   - van
   - grant
 #### how releases work 
+  - v 1 2 3 4 5 6 7 8 
+  - each is a release profile - they likely change how the internals works
 #### note on major versions
 - every prior version is included, almost anything is limited or sticky... see `-h --to-ver`. Since I am using this all the time once it works.. it has to work forever.. 
 ## upgrading
