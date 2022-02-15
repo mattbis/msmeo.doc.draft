@@ -2,6 +2,7 @@
 - collections
 #### BUCKETS
 #### PROCESSORS
+#### MACHINES
 #### PRECEDENCE
 #### REGIONS
 #### HEADERS
