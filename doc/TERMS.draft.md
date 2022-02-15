@@ -3,6 +3,7 @@
 #### BUCKETS
 #### PROCESSORS
 #### MACHINES
+- thread_safe
 #### PRECEDENCE
 #### REGIONS
 #### HEADERS
