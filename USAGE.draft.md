@@ -11,7 +11,9 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
   - safe
   - van
   - grant
+#### how releases work 
 #### note on major versions
+- every prior version is included, almost anything is limited or sticky... see `-h --to-ver`. Since I am using this all the time once it works.. it has to work forever.. 
 ## upgrading
 ## running
 ## logging
