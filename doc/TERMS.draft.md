@@ -4,6 +4,7 @@
 #### PROCESSORS
 #### MACHINES
 - thread_safe
+- sign_keys
 #### PRECEDENCE
 #### REGIONS
 #### HEADERS
