@@ -11,6 +11,10 @@ The only slightly confusing this about this tool is it has a lot of args, and yo
   - safe
   - van
   - grant
+#### almost everything mods something before
+#### profiles are not config on the cli from cwd...
+#### cwd is for usage... tool config is for customisations... such as custom hashing.. 
+  - limit functions like hash etc
 #### how releases work 
   - v 1 2 3 4 5 6 7 8 
   - each is a release profile - they likely change how the internals works
